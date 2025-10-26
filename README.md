@@ -1,11 +1,10 @@
-<h1 align="center">
+<h2 align="center">
   Hi 👋, I'm Vivian 
-</h1>
+</h2>
 <h3 align="center"> 
   A girl learning to break, troubleshoot, and fix her way around tech!
 </h3>
     <br>
-        <br>
     - 🌱 I’m currently learning Linux administration and information security
     <br>
         <br>
