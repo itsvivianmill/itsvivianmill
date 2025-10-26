@@ -8,7 +8,7 @@
     - 🌱 I’m currently learning Linux administration and information security
     <br>
         <br>
-    - 👨‍💻 All of my projects are available at: https://itsvivianmill.github.io/journal/
+    - 👨‍💻 All of my projects and bloggings are available at: https://itsvivianmill.github.io/journal/
     <br>
         <br>
     - ⚡ Fun Facts About Me: I love baking, food, art, helping my community, and obviously... technology<br><br>
