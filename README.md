@@ -1,6 +1,6 @@
-<h2 align="center">
-        <img width="70%" src="https://github.com/itsvivianmill/itsvivianmill/assets/hello__my_name_is_vivian-removebg-preview.png" alt="cover" />
-</h2>
+
+![cover](https://github.com/itsvivianmill/itsvivianmill/assets/)
+
 <h3 align="center"> 
   A girl learning to break, troubleshoot, and fix her way around tech!
 </h3>
