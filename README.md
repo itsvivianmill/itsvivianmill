@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi 👋, I'm Vivian 
+        <img width="70%" src="https://github.com/itsvivianmill/itsvivianmill/blob/master/assets/hello__my_name_is_vivian-removebg-preview.png" alt="cover" />
 </h2>
 <h3 align="center"> 
   A girl learning to break, troubleshoot, and fix her way around tech!
