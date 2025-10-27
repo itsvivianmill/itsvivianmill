@@ -1,4 +1,4 @@
-![cover](https://github.com/itsvivianmill/itsvivianmill/blob/main/assets/hello__my_name_is_vivian-removebg-preview.png?raw=true)
+![cover](https://github.com/itsvivianmill/itsvivianmill/blob/main/assets/headercover.png?raw=true)
 
 <h3 align="center"> 
   A girl learning to break, troubleshoot, and fix her way around tech!
