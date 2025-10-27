@@ -1,17 +1,10 @@
-![cover](https://github.com/itsvivianmill/itsvivianmill/blob/main/assets/headercover.png?raw=true)
-
-<h3 align="center"> 
-  A girl learning to break, troubleshoot, and fix her way around tech!
-</h3>
+![cover](https://github.com/itsvivianmill/itsvivianmill/blob/main/assets/darkheader.png?raw=true)
     <br>
     - 🌱 I’m currently learning Linux administration and information security
     <br>
         <br>
     - 👨‍💻 All of my projects and bloggings are available at: https://itsvivianmill.github.io/journal/
     <br>
-        <br>
-    - ⚡ Fun Facts About Me: I love baking, food, art, helping my community, and obviously... technology<br><br>
-
 <h3 align="left">
   Connect with me:
 </h3>
